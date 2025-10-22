@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PySpark / Spark logs
+*.log
+*.out
+*.err
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db

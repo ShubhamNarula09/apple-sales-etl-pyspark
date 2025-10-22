@@ -1,0 +1,21 @@
+product_id,product_name,category,price
+1,iPhone SE,Smartphone,450
+2,AirPods Pro,Accessory,250
+3,MacBook Air,Laptop,1000
+4,iPad Mini,Tablet,400
+5,iPhone 12,Smartphone,700
+6,MacBook Pro,Laptop,2000
+7,iPad Pro,Tablet,800
+8,AirPods,Accessory,150
+9,iPhone 13,Smartphone,900
+10,MacBook 16,Laptop,2500
+11,iPad 9,Tablet,500
+12,Apple Watch,Accessory,300
+13,iMac,Laptop,2200
+14,AirPods Max,Accessory,600
+15,iPhone 14,Smartphone,1000
+16,Mac Mini,Laptop,1200
+17,Apple Pencil,Accessory,120
+18,Magic Keyboard,Accessory,200
+19,HomePod,Accessory,300
+20,AirTag,Accessory,50
